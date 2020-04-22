@@ -1,6 +1,7 @@
 # **One4All**
 =========================
-
+## This is quicklink to our demo of how our software works:
+https://jstart-app.herokuapp.com/
 ### Overview
 
 In this proposal we tend to address the common challenges faced by
@@ -42,7 +43,7 @@ a student.
 
 Landing page:
 
-![](./media/image1.png){width="7.5in" height="3.65625in"}
+![](./media/image1.png)
 
 ### Registration & Profile building:
 
@@ -51,7 +52,7 @@ choose to import their profile from created resume or build it from
 scratch. There will be certain behavioral question to suggest the
 challenges and buddies just right for him using AI Engine.
 
-![](./media/image2.png){width="7.5in" height="3.95625in"}
+![](./media/image2.png)
 
 ### One4All Challenge search page:
 
@@ -60,7 +61,7 @@ interested in and start contributing. Our AI Engine will suggest
 projects/problem statements which align more closely to the user
 profile.
 
-![](./media/image3.png){width="7.5in" height="3.9583333333333335in"}
+![](./media/image3.png)
 
 ### Challenge page:
 
@@ -80,12 +81,12 @@ be tested based on the test suit provided along with the requirement
 documentation. The testing will be done using continuous integration
 systems like DevOps.
 
-![](./media/image4.png){width="7.5in" height="3.964583333333333in"}
+![](./media/image4.png)
 
 ### Repo Page: 
 
 We will maintain a repository for each user registered to help and
-maintain his contributions.![](./media/image5.png){width="7.5in"
+maintain his contributions.![](./media/image5.png)
 height="3.9972222222222222in"}
 
 To learn the working of the platform from company's perspective let's
@@ -101,7 +102,7 @@ It also consists of a detailed report to show who all have attempted the
 challenge. If the employer likes a performance, he can reach out to the
 student by looking at his profile.
 
-![](./media/image6.png){width="7.5in" height="3.6791666666666667in"}
+![](./media/image6.png)
 
 ### Challenge creation page
 
@@ -109,15 +110,15 @@ This page will provide a form where the Employer is required to put his
 Problem statement along with the requirement document which will be
 modularized by the AI Engine.
 
-![](./media/image7.png){width="7.5in" height="3.642361111111111in"}
+![](./media/image7.png)
 
 ### Technology Stack
 
-![](./media/image8.png){width="7.5in" height="4.463888888888889in"}
+![](./media/image8.png)
 
 ### Timeline of Execution within the 6 week time frame:
 
-![](./media/image9.png){width="7.5in" height="2.0208333333333335in"}
+![](./media/image9.png)
 
 ### Conclusion:
 
