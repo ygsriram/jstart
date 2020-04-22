@@ -87,7 +87,6 @@ systems like DevOps.
 
 We will maintain a repository for each user registered to help and
 maintain his contributions.![](./media/image5.png)
-height="3.9972222222222222in"}
 
 To learn the working of the platform from company's perspective let's
 jump right into the world of an employer.
