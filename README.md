@@ -32,21 +32,9 @@ Here the students will be able to search for challenges that they are interested
 
 ### Challenge page:
 
-In this page the student will be given a modularized problem chosen
-along with the general set of guidelines and policies followed by
-companies that hosted the challenge. The challenge will come with a
-requirement document that will guide the students further to solve the
-problem efficiently and improve their skills. This page will also
-provide suitable buddies for each user based on the kind of problem they
-are solving and, on the predictions, provided by a behavioral Machine
-learning model trained using the answers provided at the profile
-building stage. The users can contribute individually or chose to work
-along with buddies based on the difficulty level of the project.
+On this page, the student will be given a modularized problem chosen along with the general set of guidelines and policies followed by companies that hosted the challenge. The challenge will come with a requirement document that will guide the students further to solve the problem efficiently and improve their skills. This page will also provide suitable buddies for each user based on the kind of problem they are solving and, on the predictions, provided by a behavioral Machine learning model trained using the answers provided at the profile building stage. The users can contribute individually or chose to work along with buddies based on the difficulty level of the project.
 
-For every submission we will commit the code for review, and this will
-be tested based on the test suit provided along with the requirement
-documentation. The testing will be done using continuous integration
-systems like DevOps.
+For every submission, we will commit the code for review, and this will be tested based on the test suit provided along with the requirement documentation. The testing will be done using continuous integration systems like DevOps.
 
 ![](./media/image4.png)
 
@@ -88,20 +76,10 @@ modularized by the AI Engine.
 
 ### Conclusion:
 
-*Our Impact*: We aim to provide employment to millions of talented
-people
+*Our Impact*: We aim to provide a fair shot at getting employment to millions of talented people.
 
-*Our Creativity*: We challenge the status quo. We have come up with an
-idea of creating something that does not exist with the existing
-technologies
+*Our Creativity*: We challenge the status quo. We have come up with an idea of creating something that does not exist with the existing technologies.
 
-*Project Feasibility:* We have come up with a solution that we can
-confidently say that, it will be completed within 6week duration of the
-fellowship by delivering a fully functioning platform
+*Project Feasibility:* We have come up with a solution that we can confidently say that it will be completed within the 6week duration of the fellowship by delivering a fully functioning platform.
 
-*Leveling the playing field*: With this particular platform, not just
-students but everyone can take up challenges with respect to their
-experience. This platform creates a equal opportunity for each
-individual. By the end of day, a Job in hand would mean so much
-especially during these times and talent should not go wasted. With this
-platform we aim to create opportunities for each Individual.
+*Leveling the playing field*: With this particular platform, not just students but everyone can take up challenges concerning their experience. This platform creates an equal opportunity for each individual. By the end of the day, a Job in hand would mean so much especially during these times, and talent should not go wasted. With this platform, we aim to create opportunities for each Individual.
