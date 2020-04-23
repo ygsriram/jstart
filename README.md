@@ -26,10 +26,7 @@ Here the students can create their profile in multiple ways. They can choose to 
 
 ### One4All Challenge search page:
 
-Here the students will be able to search challenges that they are
-interested in and start contributing. Our AI Engine will suggest
-projects/problem statements which align more closely to the user
-profile.
+Here the students will be able to search for challenges that they are interested in and start contributing. Our AI Engine will suggest projects/problem statements that align more closely with the user profile.
 
 ![](./media/image3.png)
 
