@@ -4,37 +4,11 @@
 https://jstart-app.herokuapp.com/
 ### Overview
 
-In this proposal we tend to address the common challenges faced by
-students undergoing the grinding process of job search. We, including us
-as we are still students , have all been told that solving coding
-challenge that involves sorting a string, will help us land a job . We
-have been pushed into this world of competition of solving problems
-hours and days together, not knowing what the companies are looking for
-and the kind resources they want, to finally get a call for the first
-round from some company that we believe is our dream company. The
-current system of hiring individuals creates panic and would filter out
-lot of talented candidates just based on a time limited coding
-challenge.
+In this proposal, we tend to address the common challenges faced by students undergoing the grinding process of job search. We, including us as we are still students, have all been told that solving coding challenge that involves sorting a string, will help us land a job. We have been pushed into this world of competition of solving problems hours and days together, not knowing what the companies are looking for and the kind resources they want, to finally get a call for the first round from some company that we believe is our dream company. The current system of hiring individuals creates panic and would filter out a lot of talented candidates just based on a time-limited coding challenge.
 
-Here we are building a platform that we call One4All (read as One for
-All) which will help all the students to move out of the rut that they
-have been stuck in and work on real world problems that industries are
-trying to solve. In this platform we are looking at a way to provide
-every user equal opportunity to solve modularized problems provided by
-the companies and showcase their skills. While solving these real-world
-problems the users or students can break the wall and get noticed, for
-the kind of work they have contributed to, by the companies. The
-companies in turn can review the work of the students and decide on
-hiring them based on the work showcased. The main advantage in this kind
-of an environment is that, students can decide the companies they aim to
-work with, based on the problems they are trying to solve, and the
-companies can hire the right candidates by looking at their quality of
-work.
+Here we are building a platform that we call One4All (read as One for All) which will help all the students to move out of the rut that they have been stuck in and work on real-world problems that industries are trying to solve. In this platform, we are looking at a way to provide every user with equal opportunity to solve modularized problems provided by the companies and showcase their skills. While solving these real-world problems the users or students can break the wall and get noticed, for the kind of work they have contributed to, by the companies. The companies, in turn, can review the work of the students and decide on hiring them based on the work showcased. The main advantage in this kind of environment is that students can decide the companies they aim to work with, based on the problems they are trying to solve, and the companies can hire the right candidates by looking at their quality of work.
 
-We believe that building one's skills is as important as finding the
-right job, and we try to provide the infrastructure to accomplish both
-of these. We are trying to bridge the gap between what the students know
-and what companies really want.
+We believe that building one's skills is as important as finding the right job, and we try to provide the infrastructure to accomplish both of these. We are trying to bridge the gap between what the students know and what companies want.
 
 ### Ready to dig deep:
 
