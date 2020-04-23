@@ -20,11 +20,7 @@ Landing page:
 ![](./media/image1.png)
 
 ### Registration & Profile building:
-
-Here the students can create their profile in multiple ways. They can
-choose to import their profile from created resume or build it from
-scratch. There will be certain behavioral question to suggest the
-challenges and buddies just right for him using AI Engine.
+Here the students can create their profile in multiple ways. They can choose to import their profile from the created resume or build it from scratch. There will be some certain behavioral questions to suggest the challenges and buddies just right for him using AI Engine.
 
 ![](./media/image2.png)
 
